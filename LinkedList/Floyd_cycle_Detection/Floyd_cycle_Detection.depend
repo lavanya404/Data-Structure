@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630348706 source:c:\users\user\documents\codeblocks\linkedlist\floyd_cycle_detection\main.c
+	<stdio.h>
+	<stdlib.h>
+
