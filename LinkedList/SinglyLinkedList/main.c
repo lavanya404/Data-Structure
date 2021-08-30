@@ -7,7 +7,7 @@ struct node
     int data;
     struct node *next;
 };
-struct node *head=NULL,*tail=NULL;
+struct node *head=NULL;
 int count=0;
 
 void reverselist()
